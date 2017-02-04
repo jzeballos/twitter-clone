@@ -259,4 +259,56 @@ body {
 				left: 0;
 			}
 
+			.hover-enabled {
+				/*visibility: visible;*/
+			}
 
+			.click-enabled {
+				/*visibility: visible;*/
+			}
+
+
+			.icon-container {
+				/*width: inherit;
+				position: relative;
+				display: inline;
+				justify-content: flex-end;*/
+			}
+			/*.icon2 {
+				color: #2FC2EF;
+				background-color: #2FC2EF;
+				width: 12px;
+				height: 13px;
+				/*position: absolute;*/
+				/*right: 0px;*/
+				/*display: inline;*/
+				/*float: right;*/
+
+				/*text-align: right;*/
+				/*vertical-align: text-top;
+				background-repeat: no-repeat;
+				background-image: url(https://abs.twimg.com/a/1379560497/t1/img/twitter_web_sprite_icons.png);*/
+			/*}*/
+
+			.icon2 {
+				color: #2FC2EF;
+				background-color: #2FC2EF;
+				width: 14px;
+				height: 13px;
+				float: right;
+
+				display: inline;
+				vertical-align: text-top;
+				background-repeat: no-repeat;
+				background-image: url(https://abs.twimg.com/a/1379560497/t1/img/twitter_web_sprite_icons.png);
+			}
+
+			.action-retweet2 {
+				background-position: -20px -190px;
+				width: 14px;
+				height: 13px;
+			}
+			.action-favorite2 {
+				background-position: -40px -190px;
+				width: 10px;
+			}
